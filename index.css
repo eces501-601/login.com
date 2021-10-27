@@ -1,0 +1,44 @@
+.teacher{
+    color: rgba(255, 255, 255, 0.973);
+    background-color: rgb(0, 136, 255);
+    border-radius:30px 0px 30px 0px;
+    font-size: 300%;
+    padding: 10px;
+    border: none;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 1s;
+    margin-top:-16% ;
+    text-align: center;
+    margin-left: 38%;
+    cursor: pointer;
+}
+.teacher:hover{
+    box-shadow: inset 300px 0px 0px 10px rgb(255, 145, 0);
+    color: rgba(0, 0, 0, 0.973);
+  content:123;
+  
+}
+.stuend{
+    color: rgba(255, 255, 255, 0.973);
+    background-color: rgb(0, 136, 255);
+    border-radius:0px 30px 30px 30px;
+    font-size: 300%;
+    padding: 10px;
+    border: none;
+    /* -webkit-transition-duration: 0.4s; Safari */
+    transition-duration: 1s;
+    margin-top:5% ;
+    text-align: center;
+    margin-left: 38%;
+    cursor: pointer;
+
+}
+.stuend:hover{
+    box-shadow: inset 300px 50px 50px 0px rgb(255, 145, 0);
+    color: rgba(0, 0, 0, 0.973);
+  content:123;
+}
+.login{
+ margin:0px;
+
+}
